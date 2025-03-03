@@ -1,0 +1,20 @@
+{
+  "name": "course-booking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Young",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mongodb": "^6.11.0",
+    "nodemon": "^3.1.7",
+    "properties-reader": "^2.3.0"
+  },
+  "devDependencies": {}
+}
